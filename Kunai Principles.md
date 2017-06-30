@@ -28,9 +28,9 @@ This is a rich area of ideas, but fundamentally systems thinking involves seeing
 Kunai is an evolving system that exists to produce two primary outcomes:
 1) customer value
 2) the development of our people
- 
+
 We are continuously monitoring the operations of Kunai to more effectively produce these outcomes. 
- 
+
 Kunai is a system that is operating as a part in a larger system (the market). We are competing and cooperating with other systems. Kunai consists of parts, human and non-human. You are both part of this system, and a system yourself. Energy, resources, and information flow between systems and parts within systems. This flow is monitored and managed to produce desired outcomes.
 
 
