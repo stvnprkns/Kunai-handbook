@@ -33,6 +33,7 @@ We are continuously monitoring the operations of Kunai to more effectively produ
 
 Kunai is a system that is operating as a part in a larger system (the market). We are competing and cooperating with other systems. Kunai consists of parts, human and non-human. You are both part of this system, and a system yourself. Energy, resources, and information flow between systems and parts within systems. This flow is monitored and managed to produce desired outcomes.
 
+![Four Horizons of Perspective](/Media/images/four-horizons-of-perspective.png)
 
 ## Growth
 Great things take time and emerge through trial and error. Through iteration. We believe this about the products we build for our customers, and we believe this about ourselves. We're all a work in progress and want Kunai to be a place where you can evolve and develop towards a better version of yourself. We embrace experimentation and the beginner's mindset.
