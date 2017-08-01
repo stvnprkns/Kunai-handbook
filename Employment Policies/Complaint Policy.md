@@ -1,3 +1,4 @@
 # Complaint Policy
-Any formal complaint about Kunai or one of its employees or third party contractors should be logged within the complaint table shown below. All columns must be completed and a mitigation call will take place between the complaint owner and senior management each week until a resolution is reached
+Any formal complaint about Kunai or one of its employees or third party contractors should be logged within the complaint table shown below. All columns must be completed and a mitigation call will take place between the complaint owner and senior management each week until a resolution is reached.
+
 Table should include the following columns: Date|Complaint from|Received by (person and method: in person/email/phone)|Nature of complaint|Complaint directed at|Complaint owner (must be Kunai employee)|Next steps|Notes from mitigation calls|Next mitigation call|Status (either open or closed)

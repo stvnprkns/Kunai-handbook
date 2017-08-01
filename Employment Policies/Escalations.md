@@ -1,0 +1,2 @@
+# Escalations
+Internal escalations of any issues should be made by employees to their line managers, in writing. If unresolved between the employee and manager over a period of one month, this should be escalated to the next level of management. If still unresolved over a period of two further months, this should be brought to the attention of Senior Management and formally logged within the complaint policy.
