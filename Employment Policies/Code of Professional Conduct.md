@@ -32,7 +32,7 @@ We are committed to a supportive work environment, where employees have the oppo
 2.	[Harassment, Discrimination and Bullying](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Harassment,%20Discrimination%20and%20Bullying.md)
 3.	[Drugs and Alcohol](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Drugs%20and%20Alcohol.md)
 4.	[Safe workplace](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Safe%20workplace.md)
-5.	[Pet policy](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Pet%20policy.md)
+5.	[Pets](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Pets.md)
 
 ### Avoid Conflict of Interest
 When you are in a situation in which competing loyalties could cause you to pursue a personal benefit for you, your friends, or your family at the expense of Kunai or our clients, you may be faced with a conflict of interest. All of us should avoid conflicts of interest and circumstances that reasonably present the appearance of a conflict.
