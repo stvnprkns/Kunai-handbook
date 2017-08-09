@@ -8,9 +8,9 @@ Keep each other accountable on this and as the MTA always tell us: “if you see
 ### Who should follow the code?
 Every employee, contractor, partner, member of the board, everybody that represents Kunai.
 ### Who should I contact if I have questions or concerns?
-code@kunaiconsulting.com
+[HR](HR@kunaiconsulting.com)
 ### No Retaliation
-Retaliation against any worker who reports or participates in an investigation of a possible violation of our Code, policies, or the law, is prohibited. If you believe you are being retaliated against, please contact code@kunaiconsulting.com
+Retaliation against any worker who reports or participates in an investigation of a possible violation of our Code, policies, or the law, is prohibited. If you believe you are being retaliated against, please contact [HR](HR@kunaiconsulting.com)
 
 ### Compliance with law
 All employees must protect our company’s legality. They should comply with all environmental, safety and fair dealing laws. We expect employees to be ethical and responsible when dealing with our company’s finances, products, partnerships and public image.
@@ -28,15 +28,11 @@ Part of being useful and honest is being responsive: We recognize relevant feedb
 ### We are a part of a whole: Kunai
 We are committed to a supportive work environment, where employees have the opportunity to reach their fullest potential `[Alex to add something linked to Principles: evolutionary process]`. Each of us is expected to do his or her utmost to create a workplace culture that is free of harassment, intimidation, bias, and unlawful discrimination.
 
-1.	Equal Opportunity Employment.
-Employment here is based solely upon individual merit and qualifications directly related to professional competence. We strictly prohibit unlawful discrimination or harassment on the basis of race, color, religion, veteran status, national origin, ancestry, pregnancy status, sex, gender identity or expression, age, marital status, mental or physical disability, medical condition, sexual orientation, or any other characteristics protected by law. We also make all reasonable accommodations to meet our obligations under laws protecting the rights of the disabled.
-2.	Harassment, Discrimination, and Bullying.
-Kunai prohibits discrimination, harassment and bullying in any form – verbal, physical, or visual. If you believe you’ve been bullied or harassed by anyone at Kunai, or by a Kunai partner or vendor, we strongly encourage you to immediately report the incident to your supervisor. Similarly, supervisors and managers who learn of any such incident should immediately report it to the compliance officer: code@kunaiconsulting.com. We will promptly and thoroughly investigate any complaints and take appropriate action.
-3.	Drugs and Alcohol. Our position on substance abuse is simple: It is incompatible with the health and safety of our employees, and we don’t permit it. Consumption of alcohol is not banned at our offices, but use good judgment and never drink in a way that leads to impaired performance or inappropriate behavior, endangers the safety of others, or violates the law. Illegal drugs in our offices or at sponsored events are strictly prohibited. If a manager has reasonable suspicion to believe that an employee’s use of drugs and/or alcohol may adversely affect the employee’s job performance or the safety of the employee or others in the workplace, the manager may request an alcohol and/or drug screening. A reasonable suspicion may be based on objective symptoms such as the employee’s appearance, behavior, or speech.
-4.	Safe workplace.
-We are committed to a violence-free work environment, and we will not tolerate any level of violence or the threat of violence in the workplace. Under no circumstances should anyone bring a weapon to work. If you become aware of a violation of this policy, you should report it to to the compliance officer: code@kunaiconsulting.com immediately.
-5.	Pet policy.
-We love pets, who doesn’t. However it can become stressful for people to work with you lovely python crawling around (the one that eat mice, not SQLite). We would accommodate that on a case to case basis. Keep in mind you are responsible for keeping the space clean and supervise the behavior of your eventually approved pet.
+1.	[Equal Opportunity Employment](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
+2.	[Harassment, Discrimination and Bullying](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Harassment,%20Discrimination%20and%20Bullying.md)
+3.	[Drugs and Alcohol](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Drugs%20and%20Alcohol.md)
+4.	[Safe workplace](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Safe%20workplace.md)
+5.	[Pet policy](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Pet%20policy.md)
 
 ### Avoid Conflict of Interest
 When you are in a situation in which competing loyalties could cause you to pursue a personal benefit for you, your friends, or your family at the expense of Kunai or our clients, you may be faced with a conflict of interest. All of us should avoid conflicts of interest and circumstances that reasonably present the appearance of a conflict.
