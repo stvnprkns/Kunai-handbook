@@ -8,9 +8,9 @@ Keep each other accountable on this and as the MTA always tell us: “if you see
 ### Who should follow the code?
 Every employee, contractor, partner, member of the board, everybody that represents Kunai.
 ### Who should I contact if I have questions or concerns?
-[HR](HR@kunaiconsulting.com)
+For any questions or concerns contact HR: HR@kunaiconsulting.com
 ### No Retaliation
-Retaliation against any worker who reports or participates in an investigation of a possible violation of our Code, policies, or the law, is prohibited. If you believe you are being retaliated against, please contact [HR](HR@kunaiconsulting.com)
+Retaliation against any worker who reports or participates in an investigation of a possible violation of our Code, policies, or the law, is prohibited. If you believe you are being retaliated against, please contact HR: HR@kunaiconsulting.com
 
 ### Compliance with law
 All employees must protect our company’s legality. They should comply with all environmental, safety and fair dealing laws. We expect employees to be ethical and responsible when dealing with our company’s finances, products, partnerships and public image.
