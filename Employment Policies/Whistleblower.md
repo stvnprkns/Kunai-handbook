@@ -1,4 +1,4 @@
-# Whistleblower Policy
+# Whistleblower
 Kunai is committed to operating in compliance with all applicable laws, rules and regulations, including those concerning accounting and auditing, and prohibits fraudulent practices by any of its board members, officers, employees, or volunteers.  This policy outlines a procedure for employees to report actions that an employee reasonably believes violates a law, or regulation or that constitutes fraudulent accounting or other practices.  This policy applies to any matter which is related to Kunai’s business and does not relate to private acts of an individual not connected to the business of Kunai.
 
 If an employee has a reasonable belief that an employee or Kunai has engaged in any action that violates any applicable law, or regulation, including those concerning accounting and auditing, or constitutes a fraudulent practice, the employee is expected to immediately report such information to Senior Management.  If the employee does not feel comfortable reporting the information to the Senior Management, he or she is expected to report the information to the CEO.
