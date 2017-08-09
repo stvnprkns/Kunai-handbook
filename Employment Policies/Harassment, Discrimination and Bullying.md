@@ -1,0 +1,2 @@
+# Harassment, Discrimination and Bullying
+Kunai prohibits discrimination, harassment and bullying in any form – verbal, physical, or visual. If you believe you’ve been bullied or harassed by anyone at Kunai, or by a Kunai partner or vendor, we strongly encourage you to immediately report the incident to your supervisor. Similarly, supervisors and managers who learn of any such incident should immediately report it to the compliance officer: code@kunaiconsulting.com. We will promptly and thoroughly investigate any complaints and take appropriate action.
