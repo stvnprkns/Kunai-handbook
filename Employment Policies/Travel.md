@@ -1,7 +1,7 @@
 # Travel
 Trip Approval
 
-Always obtain manager approval for a trip, on email or slack, by sending them business purpose and estimated cost of trip, broken down into car/train/air/hotel/meals/other categories
+Always obtain manager approval for a trip, on email or slack, by sending them business purpose and estimated cost of trip, broken down into car/train/air/hotel/meals/other categories.
 
 Expenses
 
