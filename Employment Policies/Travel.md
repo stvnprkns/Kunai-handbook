@@ -1,9 +1,7 @@
 # Travel
-Trip Approval
+Always obtain manager approval for a trip, by email, including business purpose and estimated cost of trip, broken down into car/train/air/hotel/meals/other categories.
 
-Always obtain manager approval for a trip, on email or slack, by sending them business purpose and estimated cost of trip, broken down into car/train/air/hotel/meals/other categories.
-
-Expenses
+# Expenses
 
 Keep copies of all receipts over $25, at least until your expenses have been reimbursed to you.
 When expensing a meal for multiple people, keep a list of attendees.
