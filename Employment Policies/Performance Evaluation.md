@@ -9,4 +9,4 @@ Managers will have at least two meetings with the employees about their Performa
 
 Periodic assessment and discussion of performance will be carried out throughout the course of the review period between Managers and each of their employees on an “as needed” basis.
 
-Here's the [link] (https://drive.google.com/drive/folders/0B5-1BKuG3WP1VlBUc0xqbGtMNjQ?usp=sharing) to the template Managers and Employees will need to fill twice a year: 
+Here's the [link](https://drive.google.com/drive/folders/0B5-1BKuG3WP1VlBUc0xqbGtMNjQ?usp=sharing), to the template Managers and Employees will need to fill twice a year
