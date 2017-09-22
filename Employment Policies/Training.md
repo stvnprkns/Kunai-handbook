@@ -6,11 +6,11 @@ This policy applies to all permanent, full-time or part-time, employees of the c
 Employees, managers and Human Resources (HR) should all collaborate to build a continuous professional development (CPD) culture. It’s an employee’s responsibility to seek new learning opportunities. It’s a manager’s responsibility to coach their teams and identify employee development needs.
 
 In general, we approve and encourage the following employee trainings: Formal training sessions (individual or corporate), Employee Coaching and Mentoring, Participating in conferences, On-the-job training, Job shadowing.
-As a rule-of-thumb we will reimburse up to $1,000 per calendar year per employee on approved trainings
+As a rule-of-thumb we will reimburse up to $1,000 per calendar year per employee on approved trainings.
 
 As part of our learning and development provisions, we can also arrange for subscriptions or educational material, so employees will have access to news, articles and other material that can help them become better at their job, upon approval by employee’s manager.
 
-All trainings should consider what employees need and how they can learn best. This is why, we encourage employees and managers to consider multiple training methods like workshops, elearning, lectures and more.
+All trainings should consider what employees need and how they can learn best. This is why, we encourage employees and managers to consider multiple training methods like workshops, e-learning, lectures and more.
 
 We might occasionally engage experts to train our employees. The company will cover the entire cost in this case.
 
