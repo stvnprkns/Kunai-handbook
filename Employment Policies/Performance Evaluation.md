@@ -1,6 +1,6 @@
 # Performance Evaluation
 At Kunai we pride ourselves on maintaining an extremely transparent and collaborative workplace. This frequently leads to on the spot feedback and challenges to approaches and ideas - all in the name of making us better collectively and individually. In fact, our employees will often seek it out feedback if they think there's room for even the slightest improvement in their approach.
-We believe this is a fundamental driver of our ability to deliver such high quality work. Its important to us that we employ and work with people who have the right attitude to thrive in this environment - both giving and receiving feedback and improvement ideas. For more on this please also check our [Principles]()
+We believe this is a fundamental driver of our ability to deliver such high quality work. Its important to us that we employ and work with people who have the right attitude to thrive in this environment - both giving and receiving feedback and improvement ideas. For more on this please also check our [Principles](https://github.com/kunai-consulting/handbook/blob/master/Kunai%20Principles.md)
 
 As much as we try to avoid it, there will be times when an employee either isn't the right fit for this culture or is having other continual problems with performing at the level we expect. In these situations, we again remain transparent and will openly look to help the individual find a different role either inside or outside of Kunai.
 
