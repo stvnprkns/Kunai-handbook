@@ -18,4 +18,4 @@ Employees should show willingness to improve by asking their managers for direct
 
 ### Security Training
 All developers need to complete within 90 days of your starting date, the Security Training with Aaron and pass the test
-See also Kunai's [Data Security Policy]()
+See also Kunai's [Data Security Policy](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Data%20Security.md)
