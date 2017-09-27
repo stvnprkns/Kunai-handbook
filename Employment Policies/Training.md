@@ -15,3 +15,7 @@ All trainings should consider what employees need and how they can learn best. T
 We might occasionally engage experts to train our employees. The company will cover the entire cost in this case.
 
 Employees should show willingness to improve by asking their managers for direction and advice. Managers should do the same with their own superiors, while encouraging and mentoring their subordinates. Employees and managers are responsible for finding the best ways to CPD. They can experiment with job rotation, job shadowing and other types of on-the-job training (without disrupting daily operations). We also encourage employees to use their rights for self-paced learning by asking for educational material and access to other resources. All eligible employees are covered by this policy without discriminating against rank or protected characteristics. Managers should evaluate the success of training efforts. They should keep records for reference and better improvement opportunities. All employee development efforts should respect cost and time limitations, as well as individual and business needs. Employees should try to make the most out of their trainings by studying and finding ways to apply knowledge to their work.
+
+### Security Training
+All developers need to complete within 90 days of your starting date, the Security Training with Aaron and pass the test
+See also Kunai's [Data Security Policy]()
