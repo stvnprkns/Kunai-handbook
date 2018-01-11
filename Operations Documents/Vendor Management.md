@@ -11,4 +11,4 @@ Contracts, whenever possible, should be forwarded to Senior Management prior to 
 
 Contracts in excess of $50,000 shall be considered for review by an attorney.
 
-Executed Contracts shall be retained by the CEO
+Contracts shall be executed and retained by the CEO
