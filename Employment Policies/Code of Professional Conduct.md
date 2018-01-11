@@ -26,7 +26,7 @@ Part of being useful and honest is being responsive: We recognize relevant feedb
 
 
 ### We are a part of a whole: Kunai
-We are committed to a supportive work environment, where employees have the opportunity to reach their fullest potential. FOr more on this see our [Principles](https://github.com/kunai-consulting/handbook/blob/master/Kunai%20Principles.md). Each of us is expected to do his or her utmost to create a workplace culture that is free of harassment, intimidation, bias, and unlawful discrimination.
+We are committed to a supportive work environment, where employees have the opportunity to reach their fullest potential. For more on this see our [Principles](https://github.com/kunai-consulting/handbook/blob/master/Kunai%20Principles.md). Each of us is expected to do his or her utmost to create a workplace culture that is free of harassment, intimidation, bias, and unlawful discrimination.
 
 1.	[Equal Opportunity Employment](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 2.	[Harassment, Discrimination and Bullying](https://github.com/kunai-consulting/handbook/blob/master/Employment%20Policies/Harassment,%20Discrimination%20and%20Bullying.md)
