@@ -11,4 +11,4 @@ You should also consult our [Employee Privacy Policies](https://github.com/kunai
 If you decide to use your own machine there are some rules you need to follow:
 
 ###  Full Disk Encryption
-You are required to fully encrypt your computer's hard drive and any drives containing client information and/or information related to Kunai's business.  Please provide evidence in the form of a screen shot to XXX on an yearly basis
+You are required to fully encrypt your computer's hard drive and any drives containing client information and/or information related to Kunai's business.  Please provide evidence in the form of a screen shot to HR@Kunaiconsulting.com on an yearly basis
