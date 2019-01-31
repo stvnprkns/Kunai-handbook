@@ -1,4 +1,4 @@
-# Observed Holiday List
+# Observed Holiday List 2019
 
 <table>
   <tr>
@@ -7,15 +7,11 @@
   </tr>
   <tr>
     <td>Birthday of Martin Luther King, Jr. </td>
-    <td>January 19</td>
+    <td>January 21</td>
   </tr>
   <tr>
     <td>President’s Day</td>
-    <td>February 16</td>
-  </tr>
-  <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
+    <td>February 18</td>
   </tr>
   <tr>
     <td>Memorial Day</td>
@@ -30,7 +26,7 @@
     <td>First Monday in September</td>
   </tr>
   <tr>
-    <td>Indigenous People’s Day</td>
+    <td>Columbus Day</td>
     <td>Second Monday in October</td>
   </tr>
   <tr>
