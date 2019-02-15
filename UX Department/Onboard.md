@@ -8,7 +8,7 @@ Below you'll find everything you need to start designing. If something is missin
 
 You will feel very slow in the beginning, that is perfectly normal. There is a lot of information being thrown at you all at once. Your goal for the first few weeks here is simply to listen, absorb, and ask as many questions as possible.
 
-If you haven't already, please read the main section of the [UX Handbook](UX-Department/handbook.md) and the [UX Designer section](UX-Department/tools-&-process.md).
+If you haven't already, please read the main section of the [UX Handbook](UX%20Department/Handbook.md) and the [UX Designer section](UX%20Department/Tools%20%26%20Process.md).
 
 ## UX Design Buddy
 
