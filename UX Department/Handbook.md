@@ -103,7 +103,7 @@ The UX department is not solely responsible for the user experience at Kunai. Ev
 
 #### Kunai Design Tools
 
-Here is a list of tools we use to get our design work done at Kunai. [Click here]() for more information on how we use them.
+Here is a list of tools we use to get our design work done at Kunai. View our [Tools & Processes](UX%20Department/Tools%20%26%20Process.md) for more information on how we use them.
 
 - Abstract (Version Control)
 - Sketch (Mocks and Wires)
